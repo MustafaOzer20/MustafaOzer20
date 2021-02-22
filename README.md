@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 
 
-- ⚡ I’m currently learning **Machine Learning and data science**
+- ⚡ I’m currently learning **Machine Learning, data science and flutter**
 
 
 <h3 align="center">Languages and Tools:</h3>
