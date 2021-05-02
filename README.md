@@ -29,7 +29,7 @@
 <a href="https://developer.android.com/studio?hl=ru" target="_blank"> <img src="https://blog.dicoding.com/wp-content/uploads/2019/04/androidlogo.png" alt="androidstudio" width="70" height="45"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MustafaOzer20&show_icons=true&theme=radical&locale=en&layout=compact" alt="MustafaOzer20" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MustafaOzer20&show_icons=true&theme=radical&locale=en&count_private=true&hide=issues" alt="MustafaOzer20" width="50%" /></p>
 
