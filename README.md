@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MustafaOzer20&show_icons=true&theme=radical&locale=en&layout=compact&hide=issues" alt="MustafaOzer20" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MustafaOzer20&show_icons=true&theme=radical&locale=en&count_private=true&hide=issues" alt="MustafaOzer20" width="50%" /></p>
-
+<br>
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MustafaOzer20" alt="MustafaOzer20" /> </p>
  </div>
