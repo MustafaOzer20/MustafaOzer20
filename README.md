@@ -3,7 +3,7 @@
 
  
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Python**
 - ⚡ I’m currently learning **Artificial Intelligence** 
 
 
